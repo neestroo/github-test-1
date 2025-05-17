@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIo13pi2ggQxSunogreotWoev2w1NQQDLTgm9QbRXFWl root@kali
